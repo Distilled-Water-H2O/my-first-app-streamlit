@@ -92,7 +92,7 @@ elif option == "About YT channel":
             - country, boywithuke, trending, 8D music/lyric videos. 
             - edits both in full and yt Shorts.
                 
-            I create such a high quality content that your eyes gonna love it. Make sure to subscribe.  
+            I create such a high quality content :flag-ps: that your eyes gonna love it. Make sure to subscribe.  
                 """
             )
     st.write("[Check out my youtube channel](https://youtube.com/@DistilledWater-HQ)")
