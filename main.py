@@ -1,7 +1,8 @@
 # introduction
 """
-this is a based streamlit application
-<_ streamlit run based.py
+- this is a my first streamlit application to be deployed. 
+- it's as simple as possible. 
+<_ streamlit run main.py
 """
 
 # libraries
